@@ -6,5 +6,7 @@ This project uses gradle build System. To execute this project, "Import Project"
 # Cloning The Repo
 ```git clone https://github.com/Oyopiz/Android-getcurrent-Location.git```
 Then Open the project Location in Android Studio
+
+# Google Maps API KEY
 You need a google maps api key for the project to work
 [API KEY]: https://developers.google.com/maps/documentation/javascript/get-api-key
